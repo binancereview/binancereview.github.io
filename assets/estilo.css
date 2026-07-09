@@ -95,21 +95,21 @@ button:focus-visible {
 .hero {
   background: linear-gradient(180deg, #0b0e11 0%, #14181d 100%);
   border-bottom: 1px solid var(--border);
-  padding: 80px 20px;
+  padding: 44px 20px;
   text-align: center;
 }
 
 .hero h1 {
   max-width: 720px;
-  margin: 0 auto 16px auto;
+  margin: 0 auto 12px auto;
   text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
 }
 
 .hero p {
   max-width: 620px;
-  margin: 0 auto 24px auto;
+  margin: 0 auto;
   color: #d8dde2;
-  font-size: 1.05rem;
+  font-size: 1rem;
   text-shadow: 0 1px 8px rgba(0, 0, 0, 0.6);
 }
 
