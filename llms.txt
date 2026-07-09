@@ -1,0 +1,15 @@
+# Binance Review
+
+> Independent English-language information site about the Binance cryptocurrency exchange: safety record, fees, regional availability, and comparisons with alternatives. Contains referral links to Binance's affiliate program.
+
+## Pages
+
+- [Is Binance Safe?](https://binancereview.github.io/is-binance-safe/): balanced safety review covering regulatory history, reserves, and current restrictions by region.
+- [Binance Fees Explained](https://binancereview.github.io/binance-fees/): spot, futures, and withdrawal fee breakdown, including BNB discount and VIP tiers.
+- [Binance vs Coinbase](https://binancereview.github.io/binance-vs-coinbase/): comparison on fees, regulation, and coin selection.
+- [How to Buy Bitcoin on Binance](https://binancereview.github.io/how-to-buy-bitcoin-on-binance/): step-by-step account creation and first purchase guide.
+- [Binance Referral Code Explained](https://binancereview.github.io/binance-referral-code/): how the sign-up bonus and referral discount work.
+- [Is Binance Available in My Country?](https://binancereview.github.io/is-binance-available-in-my-country/): regional availability, including US restrictions and the 2026 EU MiCA trading suspension.
+- [About](https://binancereview.github.io/about/): site purpose and affiliate disclosure.
+- [Disclaimer](https://binancereview.github.io/disclaimer/): financial risk and affiliate link disclosure.
+- [Privacy Policy](https://binancereview.github.io/privacy-policy/): cookies and data collection via Google Analytics.
