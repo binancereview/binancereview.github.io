@@ -346,15 +346,8 @@ section {
 
 .links-relacionados li {
   margin-bottom: 10px;
-  padding-left: 18px;
-  position: relative;
-}
-
-.links-relacionados li::before {
-  content: "→";
-  position: absolute;
-  left: 0;
-  color: var(--ouro);
+  display: flex;
+  align-items: center;
 }
 
 /* Footer */
